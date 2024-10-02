@@ -6,11 +6,15 @@ proyectos y mis intereses.
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 ## Información personal
-* Nombre: [Tu nombre]
-* Ocupación: [Tu ocupación]
-* Lugar de residencia: [Tu lugar de residencia]
-* Sitio web: [Tu sitio web]
+* Nombre: Diego Flores
+* Ocupación: Estudiante
+* Lugar de residencia: Guayaquil, Ecuador
+* Sitio web: 
 ## Proyectos
-* [Lista de tus proyectos]
+* RentaUnCuento Link:
+* Html webSite Link
+* Trie
 ## Intereses
-* [Lista de tus intereses]
+* Desarrollo Web
+* Gestión de base de datos
+* LeetCode
