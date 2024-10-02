@@ -12,8 +12,8 @@ proyectos y mis intereses.
 * Sitio web: 
 ## Proyectos
 * RentaUnCuento Link:
-* Html webSite Link
-* Trie
+* Html webSite Link: https://github.com/RenDiego07/HTML-CSS-4-fun 
+* Trie  Link: 
 ## Intereses
 * Desarrollo Web
 * Gestión de base de datos
